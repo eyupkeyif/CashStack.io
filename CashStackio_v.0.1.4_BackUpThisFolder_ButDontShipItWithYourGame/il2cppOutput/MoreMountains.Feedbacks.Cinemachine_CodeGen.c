@@ -1,0 +1,205 @@
+﻿#include "pch-c.h"
+#ifndef _MSC_VER
+# include <alloca.h>
+#else
+# include <malloc.h>
+#endif
+
+
+#include "codegen/il2cpp-codegen-metadata.h"
+
+
+
+
+
+// 0x00000001 System.Void MoreMountains.FeedbacksForThirdParty.MMFeedbackCinemachineImpulse::CustomPlayFeedback(UnityEngine.Vector3,System.Single)
+extern void MMFeedbackCinemachineImpulse_CustomPlayFeedback_mC388912092663F3A8F196EDFD1AA8784D782C9A4 (void);
+// 0x00000002 System.Void MoreMountains.FeedbacksForThirdParty.MMFeedbackCinemachineImpulse::CustomStopFeedback(UnityEngine.Vector3,System.Single)
+extern void MMFeedbackCinemachineImpulse_CustomStopFeedback_m7366BE8B560B4DA98133D3CEAB83116EDF6A3C36 (void);
+// 0x00000003 System.Void MoreMountains.FeedbacksForThirdParty.MMFeedbackCinemachineImpulse::.ctor()
+extern void MMFeedbackCinemachineImpulse__ctor_mF0C1C34831E745FA19F86D7ED81711B3A23811D7 (void);
+// 0x00000004 System.Void MoreMountains.FeedbacksForThirdParty.MMFeedbackCinemachineImpulse::.cctor()
+extern void MMFeedbackCinemachineImpulse__cctor_mDFB4C61F38416967DB1E47F3A05C92A81B420C0D (void);
+// 0x00000005 System.Void MoreMountains.FeedbacksForThirdParty.MMFeedbackCinemachineImpulseClear::CustomPlayFeedback(UnityEngine.Vector3,System.Single)
+extern void MMFeedbackCinemachineImpulseClear_CustomPlayFeedback_mB4C76D5D20D2F9C8603D979ABB66E165D491B404 (void);
+// 0x00000006 System.Void MoreMountains.FeedbacksForThirdParty.MMFeedbackCinemachineImpulseClear::.ctor()
+extern void MMFeedbackCinemachineImpulseClear__ctor_m508AF9C769E38565BCF2CB49953C21651E69A317 (void);
+// 0x00000007 System.Void MoreMountains.FeedbacksForThirdParty.MMFeedbackCinemachineImpulseClear::.cctor()
+extern void MMFeedbackCinemachineImpulseClear__cctor_m8CAB146234C00F50368B914BFBE0FCA2FFDCEC61 (void);
+// 0x00000008 System.Void MoreMountains.FeedbacksForThirdParty.MMFeedbackCinemachineTransition::CustomPlayFeedback(UnityEngine.Vector3,System.Single)
+extern void MMFeedbackCinemachineTransition_CustomPlayFeedback_m5161365984117A0453F2F2AF42E2871CE3F4363E (void);
+// 0x00000009 System.Void MoreMountains.FeedbacksForThirdParty.MMFeedbackCinemachineTransition::.ctor()
+extern void MMFeedbackCinemachineTransition__ctor_mE197459336F90D968C079F460997BC9B07B3D3A1 (void);
+// 0x0000000A System.Void MoreMountains.FeedbacksForThirdParty.MMFeedbackCinemachineTransition::.cctor()
+extern void MMFeedbackCinemachineTransition__cctor_m58AD210B2EF0AD1E410756986E8597A7EBE4E098 (void);
+// 0x0000000B System.Void MoreMountains.FeedbacksForThirdParty.MMF_CinemachineImpulse::CustomPlayFeedback(UnityEngine.Vector3,System.Single)
+extern void MMF_CinemachineImpulse_CustomPlayFeedback_m327933AFC8064FB14C29D3036B926DC1739939AC (void);
+// 0x0000000C System.Void MoreMountains.FeedbacksForThirdParty.MMF_CinemachineImpulse::CustomStopFeedback(UnityEngine.Vector3,System.Single)
+extern void MMF_CinemachineImpulse_CustomStopFeedback_m2D53260C94A5B5F6052D238128BCEA4E15E0B35A (void);
+// 0x0000000D System.Void MoreMountains.FeedbacksForThirdParty.MMF_CinemachineImpulse::.ctor()
+extern void MMF_CinemachineImpulse__ctor_m047E6E68528C063C6058D4E36E4ABF70E845E28C (void);
+// 0x0000000E System.Void MoreMountains.FeedbacksForThirdParty.MMF_CinemachineImpulse::.cctor()
+extern void MMF_CinemachineImpulse__cctor_mD0AC6228C213F4C001EF1631EDD681E84355C1A2 (void);
+// 0x0000000F System.Void MoreMountains.FeedbacksForThirdParty.MMF_CinemachineImpulseClear::CustomPlayFeedback(UnityEngine.Vector3,System.Single)
+extern void MMF_CinemachineImpulseClear_CustomPlayFeedback_m622D190B08335B8640FC7D9CF907CE4BF96A3C9A (void);
+// 0x00000010 System.Void MoreMountains.FeedbacksForThirdParty.MMF_CinemachineImpulseClear::.ctor()
+extern void MMF_CinemachineImpulseClear__ctor_m15A600DA1716D5B0408182987F3496A05CB92ED7 (void);
+// 0x00000011 System.Void MoreMountains.FeedbacksForThirdParty.MMF_CinemachineImpulseClear::.cctor()
+extern void MMF_CinemachineImpulseClear__cctor_m87CFD515A73E3A4243C0C3DE567ED88FD90AFD75 (void);
+// 0x00000012 System.Void MoreMountains.FeedbacksForThirdParty.MMF_CinemachineImpulseSource::CustomPlayFeedback(UnityEngine.Vector3,System.Single)
+extern void MMF_CinemachineImpulseSource_CustomPlayFeedback_mC8AFF403882BCFDDBF8D119A26F3EC4FF8CF0EE6 (void);
+// 0x00000013 System.Void MoreMountains.FeedbacksForThirdParty.MMF_CinemachineImpulseSource::CustomStopFeedback(UnityEngine.Vector3,System.Single)
+extern void MMF_CinemachineImpulseSource_CustomStopFeedback_m192BEBEFD3FE17E3F9EDDA06F0169C2AF48D4EB2 (void);
+// 0x00000014 System.Void MoreMountains.FeedbacksForThirdParty.MMF_CinemachineImpulseSource::.ctor()
+extern void MMF_CinemachineImpulseSource__ctor_m78C274900B84ABA7D4A221658400645C1F34EE18 (void);
+// 0x00000015 System.Void MoreMountains.FeedbacksForThirdParty.MMF_CinemachineImpulseSource::.cctor()
+extern void MMF_CinemachineImpulseSource__cctor_m0CE8D9BC9230F5B884177E19CA629B076B876EA4 (void);
+// 0x00000016 System.Boolean MoreMountains.FeedbacksForThirdParty.MMF_CinemachineTransition::get_HasChannel()
+extern void MMF_CinemachineTransition_get_HasChannel_mADF2C9C6758A7C6794F0CDC65420CF55078B64C9 (void);
+// 0x00000017 System.Void MoreMountains.FeedbacksForThirdParty.MMF_CinemachineTransition::CustomPlayFeedback(UnityEngine.Vector3,System.Single)
+extern void MMF_CinemachineTransition_CustomPlayFeedback_m3DFD4590423FEBE0F356EA26452B05546CE92BF0 (void);
+// 0x00000018 System.Void MoreMountains.FeedbacksForThirdParty.MMF_CinemachineTransition::.ctor()
+extern void MMF_CinemachineTransition__ctor_m13697265EA0477E2BCEB077C9783B96C3B8CCF78 (void);
+// 0x00000019 System.Void MoreMountains.FeedbacksForThirdParty.MMF_CinemachineTransition::.cctor()
+extern void MMF_CinemachineTransition__cctor_m6C74E9288C2E04A04A65A7C464473743887B3978 (void);
+// 0x0000001A System.Void MoreMountains.FeedbacksForThirdParty.MMCinemachineCameraShaker::.ctor()
+extern void MMCinemachineCameraShaker__ctor_m3041D9ECA821BF013877FDD10182B0FFA66AC034 (void);
+// 0x0000001B System.Void MoreMountains.FeedbacksForThirdParty.MMCinemachineClippingPlanesShaker::.ctor()
+extern void MMCinemachineClippingPlanesShaker__ctor_mDBD3DBC91E44ED7CC9295FC99EF3D416932D3329 (void);
+// 0x0000001C System.Void MoreMountains.FeedbacksForThirdParty.MMCinemachineFieldOfViewShaker::.ctor()
+extern void MMCinemachineFieldOfViewShaker__ctor_mEA5FCC82DBDD22D784634986E5E216A265770351 (void);
+// 0x0000001D System.Void MoreMountains.FeedbacksForThirdParty.MMCinemachineFreeLookZoom::.ctor()
+extern void MMCinemachineFreeLookZoom__ctor_m269CE8779DEE61F205F6DF5143FBC9A17F199E51 (void);
+// 0x0000001E System.Void MoreMountains.FeedbacksForThirdParty.MMCinemachineOrthographicSizeShaker::.ctor()
+extern void MMCinemachineOrthographicSizeShaker__ctor_m38AF23D7D724E0F9CF4C6DE6C07B9FB3B75B2883 (void);
+// 0x0000001F System.Single MoreMountains.FeedbacksForThirdParty.MMCinemachinePriorityBrainListener::GetTime()
+extern void MMCinemachinePriorityBrainListener_GetTime_mA27B7A8759E39A4F324918EDDCB469922BBE2795 (void);
+// 0x00000020 System.Single MoreMountains.FeedbacksForThirdParty.MMCinemachinePriorityBrainListener::GetDeltaTime()
+extern void MMCinemachinePriorityBrainListener_GetDeltaTime_m8ED920CFF126036A6F04D4ABA7C35243B7736914 (void);
+// 0x00000021 System.Void MoreMountains.FeedbacksForThirdParty.MMCinemachinePriorityBrainListener::.ctor()
+extern void MMCinemachinePriorityBrainListener__ctor_mECC2F85F880C4BE7665BCABC3B1BB4BB2537B473 (void);
+// 0x00000022 System.Single MoreMountains.FeedbacksForThirdParty.MMCinemachinePriorityListener::GetTime()
+extern void MMCinemachinePriorityListener_GetTime_m6FFB449E6B4503BAB1CE782A663EEAE8B531F21E (void);
+// 0x00000023 System.Single MoreMountains.FeedbacksForThirdParty.MMCinemachinePriorityListener::GetDeltaTime()
+extern void MMCinemachinePriorityListener_GetDeltaTime_m843F571A7D3E510FF2B343414A2038C43D018EE5 (void);
+// 0x00000024 System.Void MoreMountains.FeedbacksForThirdParty.MMCinemachinePriorityListener::.ctor()
+extern void MMCinemachinePriorityListener__ctor_m49D8A8A09506A9B819E9E54D958FE7C26E1B62F5 (void);
+// 0x00000025 System.Single MoreMountains.FeedbacksForThirdParty.MMCinemachineZoom::GetTime()
+extern void MMCinemachineZoom_GetTime_m13D43F45B941D2EFACB89D0FAFFC18E618384F79 (void);
+// 0x00000026 System.Single MoreMountains.FeedbacksForThirdParty.MMCinemachineZoom::GetDeltaTime()
+extern void MMCinemachineZoom_GetDeltaTime_m144C0593548EE27DF3E4AEEF092BDD4910987BFC (void);
+// 0x00000027 MoreMountains.Feedbacks.TimescaleModes MoreMountains.FeedbacksForThirdParty.MMCinemachineZoom::get_TimescaleMode()
+extern void MMCinemachineZoom_get_TimescaleMode_m011368B7AAC7340E11480854F9FCF8DF02DCDF14 (void);
+// 0x00000028 System.Void MoreMountains.FeedbacksForThirdParty.MMCinemachineZoom::set_TimescaleMode(MoreMountains.Feedbacks.TimescaleModes)
+extern void MMCinemachineZoom_set_TimescaleMode_m31C347EEC2E268FA9BC4824C78891EED9796E08F (void);
+// 0x00000029 System.Void MoreMountains.FeedbacksForThirdParty.MMCinemachineZoom::.ctor()
+extern void MMCinemachineZoom__ctor_mCD282CB742CD8C0EEB795BDB354D7AEBDA89C946 (void);
+static Il2CppMethodPointer s_methodPointers[41] = 
+{
+	MMFeedbackCinemachineImpulse_CustomPlayFeedback_mC388912092663F3A8F196EDFD1AA8784D782C9A4,
+	MMFeedbackCinemachineImpulse_CustomStopFeedback_m7366BE8B560B4DA98133D3CEAB83116EDF6A3C36,
+	MMFeedbackCinemachineImpulse__ctor_mF0C1C34831E745FA19F86D7ED81711B3A23811D7,
+	MMFeedbackCinemachineImpulse__cctor_mDFB4C61F38416967DB1E47F3A05C92A81B420C0D,
+	MMFeedbackCinemachineImpulseClear_CustomPlayFeedback_mB4C76D5D20D2F9C8603D979ABB66E165D491B404,
+	MMFeedbackCinemachineImpulseClear__ctor_m508AF9C769E38565BCF2CB49953C21651E69A317,
+	MMFeedbackCinemachineImpulseClear__cctor_m8CAB146234C00F50368B914BFBE0FCA2FFDCEC61,
+	MMFeedbackCinemachineTransition_CustomPlayFeedback_m5161365984117A0453F2F2AF42E2871CE3F4363E,
+	MMFeedbackCinemachineTransition__ctor_mE197459336F90D968C079F460997BC9B07B3D3A1,
+	MMFeedbackCinemachineTransition__cctor_m58AD210B2EF0AD1E410756986E8597A7EBE4E098,
+	MMF_CinemachineImpulse_CustomPlayFeedback_m327933AFC8064FB14C29D3036B926DC1739939AC,
+	MMF_CinemachineImpulse_CustomStopFeedback_m2D53260C94A5B5F6052D238128BCEA4E15E0B35A,
+	MMF_CinemachineImpulse__ctor_m047E6E68528C063C6058D4E36E4ABF70E845E28C,
+	MMF_CinemachineImpulse__cctor_mD0AC6228C213F4C001EF1631EDD681E84355C1A2,
+	MMF_CinemachineImpulseClear_CustomPlayFeedback_m622D190B08335B8640FC7D9CF907CE4BF96A3C9A,
+	MMF_CinemachineImpulseClear__ctor_m15A600DA1716D5B0408182987F3496A05CB92ED7,
+	MMF_CinemachineImpulseClear__cctor_m87CFD515A73E3A4243C0C3DE567ED88FD90AFD75,
+	MMF_CinemachineImpulseSource_CustomPlayFeedback_mC8AFF403882BCFDDBF8D119A26F3EC4FF8CF0EE6,
+	MMF_CinemachineImpulseSource_CustomStopFeedback_m192BEBEFD3FE17E3F9EDDA06F0169C2AF48D4EB2,
+	MMF_CinemachineImpulseSource__ctor_m78C274900B84ABA7D4A221658400645C1F34EE18,
+	MMF_CinemachineImpulseSource__cctor_m0CE8D9BC9230F5B884177E19CA629B076B876EA4,
+	MMF_CinemachineTransition_get_HasChannel_mADF2C9C6758A7C6794F0CDC65420CF55078B64C9,
+	MMF_CinemachineTransition_CustomPlayFeedback_m3DFD4590423FEBE0F356EA26452B05546CE92BF0,
+	MMF_CinemachineTransition__ctor_m13697265EA0477E2BCEB077C9783B96C3B8CCF78,
+	MMF_CinemachineTransition__cctor_m6C74E9288C2E04A04A65A7C464473743887B3978,
+	MMCinemachineCameraShaker__ctor_m3041D9ECA821BF013877FDD10182B0FFA66AC034,
+	MMCinemachineClippingPlanesShaker__ctor_mDBD3DBC91E44ED7CC9295FC99EF3D416932D3329,
+	MMCinemachineFieldOfViewShaker__ctor_mEA5FCC82DBDD22D784634986E5E216A265770351,
+	MMCinemachineFreeLookZoom__ctor_m269CE8779DEE61F205F6DF5143FBC9A17F199E51,
+	MMCinemachineOrthographicSizeShaker__ctor_m38AF23D7D724E0F9CF4C6DE6C07B9FB3B75B2883,
+	MMCinemachinePriorityBrainListener_GetTime_mA27B7A8759E39A4F324918EDDCB469922BBE2795,
+	MMCinemachinePriorityBrainListener_GetDeltaTime_m8ED920CFF126036A6F04D4ABA7C35243B7736914,
+	MMCinemachinePriorityBrainListener__ctor_mECC2F85F880C4BE7665BCABC3B1BB4BB2537B473,
+	MMCinemachinePriorityListener_GetTime_m6FFB449E6B4503BAB1CE782A663EEAE8B531F21E,
+	MMCinemachinePriorityListener_GetDeltaTime_m843F571A7D3E510FF2B343414A2038C43D018EE5,
+	MMCinemachinePriorityListener__ctor_m49D8A8A09506A9B819E9E54D958FE7C26E1B62F5,
+	MMCinemachineZoom_GetTime_m13D43F45B941D2EFACB89D0FAFFC18E618384F79,
+	MMCinemachineZoom_GetDeltaTime_m144C0593548EE27DF3E4AEEF092BDD4910987BFC,
+	MMCinemachineZoom_get_TimescaleMode_m011368B7AAC7340E11480854F9FCF8DF02DCDF14,
+	MMCinemachineZoom_set_TimescaleMode_m31C347EEC2E268FA9BC4824C78891EED9796E08F,
+	MMCinemachineZoom__ctor_mCD282CB742CD8C0EEB795BDB354D7AEBDA89C946,
+};
+static const int32_t s_InvokerIndices[41] = 
+{
+	1919,
+	1919,
+	4030,
+	6273,
+	1919,
+	4030,
+	6273,
+	1919,
+	4030,
+	6273,
+	1919,
+	1919,
+	4030,
+	6273,
+	1919,
+	4030,
+	6273,
+	1919,
+	1919,
+	4030,
+	6273,
+	3858,
+	1919,
+	4030,
+	6273,
+	4030,
+	4030,
+	4030,
+	4030,
+	4030,
+	3966,
+	3966,
+	4030,
+	3966,
+	3966,
+	4030,
+	3966,
+	3966,
+	3904,
+	3241,
+	4030,
+};
+IL2CPP_EXTERN_C const Il2CppCodeGenModule g_MoreMountains_Feedbacks_Cinemachine_CodeGenModule;
+const Il2CppCodeGenModule g_MoreMountains_Feedbacks_Cinemachine_CodeGenModule = 
+{
+	"MoreMountains.Feedbacks.Cinemachine.dll",
+	41,
+	s_methodPointers,
+	0,
+	NULL,
+	s_InvokerIndices,
+	0,
+	NULL,
+	0,
+	NULL,
+	0,
+	NULL,
+	NULL,
+	NULL, // module initializer,
+	NULL,
+	NULL,
+	NULL,
+};
